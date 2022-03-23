@@ -1,6 +1,6 @@
 # Recurrent Neural Networks for Accurate RSSI Indoor Localization
 
-Source for M.T. Hoang, B. Yuen, X. Dong, T. Lu, R. Westendorp and K. Reddy, “Recurrent Neural Networks for Accurate RSSI Indoor Localization,” IEEE Internet of Things Journal, 2019
+Source code for M.T. Hoang, B. Yuen, X. Dong, T. Lu, R. Westendorp and K. Reddy, “Recurrent Neural Networks for Accurate RSSI Indoor Localization,” IEEE Internet of Things Journal, 2019
 
 
 # Folder Structure
